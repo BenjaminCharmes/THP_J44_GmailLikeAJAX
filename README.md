@@ -1,29 +1,5 @@
-# Doto-list mailer !
+<h1 align="center">Day 44 of The Hacking Project: GmailLike with AJAX !</h1>
 
-app link - [To-do-be-do](https://todo-mailer.herokuapp.com/)
+Here are all exercises in Ruby on Rails from day 44 of The Hacking Project: GmailLike with AJAX !
 
-### How to acces
-
-[To-do-mailer](https://todo-mailer.herokuapp.com/) - (https://todo-mailer.herokuapp.com/)
-
-![](https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif)
-
-Something to get into the mood [here](https://www.youtube.com/watch?v=fKKNPLowteY)
-
-### Authors Details:
-
-👤 **the famous and infamous Vocal_15**
-
-- [@Chreees79](https://github.com/Chreees79)
-- [@GuillaumeBrthlt](https://github.com/GuillaumeBrthlt)
-- [@linahello](https://github.com/linahello)
-- [@LoiseauB](https://github.com/LoiseauB)
-- [@xko0](https://github.com/xko0) !
-
-### Show your support
-
-[Un Dev A La Mer](http://www.devalamer.fr/)
-
-Give us a ⭐ Star on GitHub — it helps!
-
-~~ https://github.com/xko0/todolist-app ~~
+<h2 align="center">🎉 Week 6: Day 29 of the Full Stack training 🎉</h2>
